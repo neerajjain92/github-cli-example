@@ -23,15 +23,15 @@
 ✓ Logged in as MovingToWeb
 ```
 
-2. Create new repo using `gh repo create`. `TechPrimers/` denotes the organization under which the repository needs to be created.
+2. Create new repo using `gh repo create`. 
 ```
-❯ gh repo create TechPrimers/github-cli-example
+❯ gh repo create github-cli-example
 
 ? Visibility Public
-? This will create 'TechPrimers/github-cli-example' in your current directory. Continue?  Yes
-✓ Created repository TechPrimers/github-cli-example on GitHub
-? Create a local project directory for TechPrimers/github-cli-example? Yes
-Initialized empty Git repository in /Users/ajay/Documents/code/github-cli-example/.git/
+? This will create 'github-cli-example' in your current directory. Continue?  Yes
+✓ Created repository github-cli-example on GitHub
+? Create a local project directory for github-cli-example? Yes
+Initialized empty Git repository in /Users/neeraj/Projects/github/neerajjain92/github-cli-example/.git/
 ✓ Initialized repository in './github-cli-example/'
 ```
 
